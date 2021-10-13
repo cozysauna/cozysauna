@@ -9,7 +9,7 @@ I am a student loving Sauna at Doshisha Uni.
 
 🍊 **My Output**
 - [AtCoder](https://atcoder.jp/users/cozy_sauna)(🐳 LightBlue, Solved 1260 Problems)
-    - [Competitive-Programming-Snipetts-for-Python](https://github.com/cozysauna/Competitive_Programming)
+    - [Competitive-Programming-Snippets-for-Python](https://github.com/cozysauna/Competitive_Programming)
     - [AtCoder-Problems](https://kenkoooo.com/atcoder/#/user/cozy_sauna?userPageTab=All)(Details)
 - [Kaggle](https://www.kaggle.com/cozysauna)
     - [Hungry-Geese](https://www.kaggle.com/c/hungry-geese/overview)(🥉 Bronze Medal)
