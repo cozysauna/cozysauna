@@ -14,3 +14,5 @@ I am a student loving Sauna at Doshisha Uni.
     - [AtCoder-Problems](https://kenkoooo.com/atcoder/#/user/cozy_sauna?userPageTab=All)
 - [Kaggle](https://www.kaggle.com/cozysauna)
     - [Hungry-Geese](https://www.kaggle.com/c/hungry-geese/overview) 【🥉 Bronze Medal】
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozysauna&layout=compact&hide=html,css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
